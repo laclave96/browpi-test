@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Bowpi Test</string>
+    <string name="unexpected_error">Oops!Unexpected Error!</string>
+    <string name="search_drinks_error">Oops! Search error. Try again.</string>
+    <string name="network_unavailable">Network Unavailable</string>
+    <string name="search">Search...</string>
+    <string name="explore">Explore</string>
+    <string name="my_list">MyList</string>
+    <string name="instructions">Instructions</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="save">Save</string>
+    <string name="add">Add</string>
+    <string name="save_cocktail_error">Oops!Save cocktail error!</string>
+    <string name="load_cocktails_error">Oops! Load my cocktail list error!</string>
+    <string name="save_successfully">Saved Successfully!</string>
+    <string name="drink_not_found">Oops!Drink not found.</string>
+    <string name="update_successfully">Update Successfully!</string>
+    <string name="name_required">Name is empty. Please fill the field!</string>
+    <string name="drink_instructions_required">Drink instructions is empty. Please fill the field!</string>
+    <string name="pending_updates">Sorry! Changes will be saved when you are back online.</string>
+    <string name="get_cocktail_error">Get cocktail error!</string>
+    <string name="add_new_cocktail">Add New Cocktail</string>
+    <string name="name">Name</string>
+    <string name="all">All</string>
+    <string name="pending">Pending</string>
+    <string name="completed">Completed</string>
+    <string name="done">Done</string>
+    <string name="category">Category</string>
+    <string name="glass">Glass</string>
+    <string name="add_ingredient">Add Ingredient</string>
+    <string name="ingredient">Ingrediente</string>
+    <string name="measure">Measure</string>
+    <string name="cocktail_rating">Cocktail Rating</string>
+    <string name="rating">Rating</string>
+    <string name="ingredient_required">Ingredient is empty. Please fill the field!</string>
+</resources>
